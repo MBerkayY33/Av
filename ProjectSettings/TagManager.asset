@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - kukla
+  - OyunYoneticisi
+  - Ses
+  - Sahne
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Zemin
+  - Oyuncu
+  - Dusman
+  - mermi
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ArkaPlan
+    uniqueID: 3416046519
+    locked: 0
+  - name: Dekor
+    uniqueID: 3662009017
+    locked: 0
+  - name: Platformlar
+    uniqueID: 432751147
+    locked: 0
+  - name: "\xF6nPlan"
+    uniqueID: 123660751
+    locked: 0
+  - name: mermi
+    uniqueID: 642058769
+    locked: 0
+  - name: kukla
+    uniqueID: 3531570773
+    locked: 0
+  - name: Dusman
+    uniqueID: 1460502463
+    locked: 0
+  - name: Avci
+    uniqueID: 1565814309
+    locked: 0
